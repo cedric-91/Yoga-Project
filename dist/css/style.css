@@ -1,0 +1,19 @@
+/**** IE8 ****/
+.bilboard-message{
+    background-color: #222222;
+}
+#contents-container{
+    height: 450px;
+}
+.contents-wrap{
+    width: 950px;
+    height: inherit;
+    margin: 20px auto;
+}
+.contents{
+    float: left;
+}
+hr{
+    position: relative;
+    left: 0;
+}
